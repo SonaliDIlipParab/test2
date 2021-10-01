@@ -25,6 +25,8 @@ testing:
     - yarn build:cli
     - yarn link:cli
     - npx hds-cli icons --repo=$ICON_REPOSITORY_URL
+    - cd packages/hds-iconlibrary
+    - yarn build
   only:
     refs:
       - merge_requests
