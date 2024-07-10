@@ -44,19 +44,19 @@ Icons have been grouped in hopes of making it easier to browse.
 - **[File](icons/file)**:  file organization
  
 - **[Guidance icons](icons/guidance-tools)**: Symbols for navigation
-    - **[Lane Assistance](icons/guidance-icons/lane-assistance)**: Icons to guide lane navigation
+    - **[Lane assistance](icons/guidance-icons/lane-assistance)**: Icons to guide lane navigation
         - **[Directions](icons/guidance-icons/lane-assistance/directions)**: lane directions
         - **[Dividers](icons/guidance-icons/lane-assistance/dividers)**: lane divider types
         - **[Lanes](icons/guidance-icons/lane-assistance/lanes)**: lane types
     - **[Manoeuvers SDK](icons/guidance-icons/manoeuvers-sdk)**:  Icons to determine the direction of travel for HERE SDK
     - **[Manoeuvers](icons/guidance-icons/manoeuvers)**:  Additional icons for travel direction
-    - **[Road Signs](icons/guidance-icons/road-signs)**: Signs that instruct or inform road users
+    - **[Road signs](icons/guidance-icons/road-signs)**: Signs that instruct or inform road users
  
 - **[Map view](icons/map-view)**: Actions for viewing maps 
  
 - **[Miscellaneous](icons/misc)**: Assorted symbols and markers  
  
-- **[Navigation Image](icons/navigation-image)**: Miscellaneous controls and tools for media and image editing 
+- **[Navigation image](icons/navigation-image)**: Miscellaneous controls and tools for media and image editing 
  
 - **[POI](icons/poi)**: Points of interest, parking, and activities. Solid variations are specific to cartographic use. 
  
